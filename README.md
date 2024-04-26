@@ -1,5 +1,4 @@
-# Your Project's Title...
-Your project's description...
+# aem-boilerplate-test
 
 ## Environments
 - Preview: https://main--aem-boilerplate-test--stefanseifert.hlx.page/
